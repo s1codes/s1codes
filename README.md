@@ -3,7 +3,7 @@
 - 👀 I’m interested in Backend Developement
 - 💀 I code for fun
 - 🌱 I’m currently admiring the Go(programming language)
-- 🤙🏼 I have used [React.js](https://github.com/vercel/next.js), [Svelte](https://github.com/sveltejs/svelte) [Next.js](https://github.com/vercel/next.js), [SvelteKit](https://github.com/sveltejs/kit)
+- 🤙🏼 I have used [React.js](https://github.com/vercel/next.js), [Svelte](https://github.com/sveltejs/svelte), [Next.js](https://github.com/vercel/next.js), [SvelteKit](https://github.com/sveltejs/kit)
 - 📫 You can Reach me via [Discord](https://discord.com): s_oneg
 
 <!---
